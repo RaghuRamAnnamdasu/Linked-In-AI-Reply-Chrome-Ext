@@ -131,7 +131,8 @@ input[type="text"].prompt-input {
     p-2.5
     rounded-lg
     max-w-md
-    text-2xl;
+    text-2xl
+    text-gray-500;
 }
 
 .buttons-wrapper {
@@ -159,7 +160,9 @@ input[type="text"].prompt-input {
     text-white
     shadow-sm
     sm:ml-3
-    sm:w-auto;
+    sm:w-auto
+    focus:ring-opacity-50
+    active:bg-blue-800;
 }
 
 .generate-button svg,
@@ -189,7 +192,8 @@ button.insert-button svg {
     justify-center
     items-center
     p-3
-    px-6;
+    px-6
+    focus:ring-opacity-50;
 }
 
 .regenerate-button {
@@ -209,7 +213,9 @@ button.insert-button svg {
     text-white
     shadow-sm
     sm:ml-3
-    sm:w-auto;
+    sm:w-auto
+    focus:ring-opacity-50
+    active:bg-blue-800;
 }
 
 .sparkles-icon svg,

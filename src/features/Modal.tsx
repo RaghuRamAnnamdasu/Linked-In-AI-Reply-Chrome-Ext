@@ -116,6 +116,7 @@ const Modal: React.FC<ModalProps> = ({ isModalOpen, onClose, currentChatContaine
                         <div className={ message.type === "prompt" ? 'promt-message-wrapper' : 'response-message-wrapper'}>
                             <div
                                 className={ message.type === "prompt" ? "prompt-message " : 'response-message'}
+                                style={{ fontFamily: "'Inter', sans-serif" }} //as linkedin global css is overriding
                                 key={index}>{message.value}
                             </div>
                         </div>

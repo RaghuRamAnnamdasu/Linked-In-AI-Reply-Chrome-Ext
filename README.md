@@ -1,3 +1,12 @@
+Demo: LinkedIn AI Chat Reply
+
+Watch the LinkedIn AI Chat Reply in action:
+
+
+Click the image above to watch the demo video. [Watch the Video](https://www.youtube.com/watch?v=your_video_id)
+
+
+
 # ChatGPT Writer Take-Home Coding Assignment
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.

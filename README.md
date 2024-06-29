@@ -1,9 +1,9 @@
-Demo: LinkedIn AI Chat Reply
+<h1>Demo: LinkedIn AI Chat Reply</h1>
 
 Watch the LinkedIn AI Chat Reply in action:
 
 
-Click the image above to watch the demo video. [Watch the Video](https://drive.google.com/file/d/1tfHKFxEXjjpH9-V-tL64nLpll3z4PZqv/view?usp=sharing)
+Click the link to watch the demo video. [Demo Link](https://drive.google.com/file/d/1tfHKFxEXjjpH9-V-tL64nLpll3z4PZqv/view?usp=sharing)
 
 
 

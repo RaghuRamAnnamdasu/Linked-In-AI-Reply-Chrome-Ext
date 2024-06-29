@@ -1,9 +1,6 @@
 <h1>Demo: LinkedIn AI Chat Reply</h1>
 
-Watch the LinkedIn AI Chat Reply in action:
-
-
-Click the link to watch the demo video. [Demo Link](https://drive.google.com/file/d/1tfHKFxEXjjpH9-V-tL64nLpll3z4PZqv/view?usp=sharing)
+<h5>Click the link to watch the demo video. [![Demo Link]([https://example.com/video_preview_image.png](https://drive.google.com/file/d/1-9k73xOhT6OsWZq5p40cnKJ6nNWMbMkG/view?usp=sharing))]([https://www.youtube.com/watch?v=your_video_id])</h5>
 
 
 

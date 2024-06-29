@@ -1,7 +1,8 @@
 <h1>Demo: LinkedIn AI Chat Reply</h1>
 
-<iframe src="https://drive.google.com/file/d/1tfHKFxEXjjpH9-V-tL64nLpll3z4PZqv/view?usp=drive_link" width="640" height="480"></iframe>
-Uploading Demo - LinkedIn AI Chat Reply.mp4…
+[<iframe src="https://drive.google.com/file/d/1tfHKFxEXjjpH9-V-tL64nLpll3z4PZqv/view?usp=drive_link" width="640" height="480"></iframe>
+Uploading Demo - LinkedIn AI Chat Reply.mp4…](https://github.com/RaghuRamAnnamdasu/Linked-In-AI-Reply-Chrome-Ext/assets/103243841/ea5e68ff-e4dc-48f7-9f39-61269680e11c
+)
 
 
 
